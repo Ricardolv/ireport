@@ -37,7 +37,7 @@ public class RelatorioBean implements Serializable {
 
 		Cliente c2 = new Cliente("João Cana Brava","joao@gmail.com","2222-2222");
 
-		Cliente c3 = new Cliente("Franscisco Garoto Super","franscisco@gmail.com","3333-3333");
+		Cliente c3 = new Cliente("Francisco Garoto Super","franscisco@gmail.com","3333-3333");
 		
 		Cliente c4 = new Cliente("Fabricio Grande Polegar","fabricio@gmail.com","4444-4444");
 
