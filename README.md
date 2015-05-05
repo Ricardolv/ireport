@@ -1,4 +1,4 @@
 Ireport
 =======
 
-Simples relatório usando jasper report 
+Simples relatório usando jasper ireport 
